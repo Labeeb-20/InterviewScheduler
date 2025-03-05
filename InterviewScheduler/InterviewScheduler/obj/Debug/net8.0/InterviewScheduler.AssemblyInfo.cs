@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterviewScheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb1b27f7bd12f1bed195769419f53cae65d828f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterviewScheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterviewScheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

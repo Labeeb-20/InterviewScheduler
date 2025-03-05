@@ -13,6 +13,8 @@ namespace InterviewScheduler.Model
         public string CandidateName { get; set; }
         [Column("emailId")]
         public string emailId { get; set; }
+        [Column("phone")]
+        public string phone {  get; set; }
         [Column("resume")]
         public byte[] resume { get; set; }
 

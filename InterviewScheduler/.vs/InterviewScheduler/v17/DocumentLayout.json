@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewDataAccess.cs",
               "ToolTip": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDataAccess.cs",
               "RelativeToolTip": "InterviewScheduler\\Model\\InterviewDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvwsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:03:16.783Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\IInterviewDataAccess.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:02:48.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:02:48.176Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\Recruiter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:24:22.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:24:22.051Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\Candidates.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:34:16.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:34:16.199Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\InterviewDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:56:56.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:56:56.154Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "InterviewScheduler\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T05:43:31.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:43:31.028Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\InterviewStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:37:47.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:37:47.631Z"
             }
           ]
         }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\users\\mohammed.labeeb\\interviewscheduler\\interviewscheduler\\interviewscheduler\\controllers\\candidateinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\controllers\\candidateinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\users\\mohammed.labeeb\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\users\\mohammed.labeeb\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\users\\mohammed.labeeb\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\users\\mohammed.labeeb\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\users\\mohammed.labeeb\\interviewscheduler\\interviewscheduler\\interviewscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CandidateInputController.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Controllers\\CandidateInputController.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Controllers\\CandidateInputController.cs",
+              "ToolTip": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Controllers\\CandidateInputController.cs",
+              "RelativeToolTip": "InterviewScheduler\\Controllers\\CandidateInputController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:02:32.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "InterviewDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDataAccess.cs",
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewDataAccess.cs",
               "ToolTip": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDataAccess.cs",
               "RelativeToolTip": "InterviewScheduler\\Model\\InterviewDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:03:16.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IInterviewDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\IInterviewDataAccess.cs",
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\IInterviewDataAccess.cs",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\IInterviewDataAccess.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:02:48.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:02:48.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Recruiter.cs",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Recruiter.cs",
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\Recruiter.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\Recruiter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:24:22.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:24:22.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Candidates.cs",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Candidates.cs",
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\Candidates.cs",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\Candidates.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:34:16.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:34:16.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "InterviewDBContext.cs",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDBContext.cs",
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewDBContext.cs",
@@ -111,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\appsettings.json",
               "RelativeDocumentMoniker": "InterviewScheduler\\appsettings.json",
@@ -119,12 +133,11 @@
               "RelativeToolTip": "InterviewScheduler\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T05:43:31.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:43:31.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InterviewStatus.cs",
               "DocumentMoniker": "C:\\Users\\mohammed.labeeb\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewStatus.cs",
               "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewStatus.cs",
@@ -132,8 +145,7 @@
               "RelativeToolTip": "InterviewScheduler\\Model\\InterviewStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:37:47.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:37:47.631Z"
             }
           ]
         }
